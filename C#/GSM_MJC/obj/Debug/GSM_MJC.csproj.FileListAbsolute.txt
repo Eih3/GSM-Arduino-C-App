@@ -1,0 +1,22 @@
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.csprojResolveAssemblyReference.cache
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.Properties.Resources.resources
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.csproj.GenerateResource.Cache
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\bin\Debug\GSM MJC.exe.config
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\bin\Debug\GSM MJC.exe
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\bin\Debug\GSM MJC.pdb
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\obj\Debug\GSM MJC.exe
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\obj\Debug\GSM MJC.pdb
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.Afficheur.resources
+c:\users\eih3\documents\visual studio 2012\Projects\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.GSM.resources
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\bin\Debug\GSM MJC.exe.config
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\obj\Debug\GSM MJC.exe
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\obj\Debug\GSM MJC.pdb
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\bin\Debug\GSM MJC.exe
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\bin\Debug\GSM MJC.pdb
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\bin\Debug\System.Data.SQLite.dll
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\bin\Debug\System.Data.SQLite.xml
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.csprojResolveAssemblyReference.cache
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.Afficheur.resources
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.GSM.resources
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.Properties.Resources.resources
+E:\MJC_GSM - Copie\GSM_MJC\GSM_MJC\obj\Debug\GSM_MJC.csproj.GenerateResource.Cache
